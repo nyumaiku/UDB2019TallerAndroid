@@ -1,0 +1,19 @@
+Temario:
+======================================================
+-Activity y AppCompactActivity (Actividades en blanco)
+-Nombre de paquetes (Proyecto)
+-AppTheme 
+-Asociando controles de layouts (Binding)
+-View action
+-onClickListener
+-Toast
+-Log.d
+-Java Class. 
+-ListView
+-Onclick Listener
+-Paso de parámetros entre actividades.
+
+
+
+-Ciclo de vida de una actividad
+
