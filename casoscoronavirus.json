@@ -1,0 +1,11 @@
+{
+    "titulo":"Personas infectadas por coronavirus",
+    "paises":[
+        {"China" : 80651},
+        {"Corea del Sur" : 7041},
+        {"Iran" : 4724},
+        {"Japon" : 1387 },
+        {"Italia" : 4636 },
+        {"USA" : 266 }
+    ]
+}
