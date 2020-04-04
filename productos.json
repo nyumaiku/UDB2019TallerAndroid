@@ -1,0 +1,45 @@
+[
+	{
+		"nombre":"Televisor 32 Pulgadas",
+		"precio":"240.00",
+		"marca":"LG",
+		"img":"https://y4j9z9c2.stackpathcdn.com/media/catalog/product/cache/1/image/500x500/9df78eab33525d08d6e5fb8d27136e95/1/0/101692858_1.jpg"
+	},
+	{
+		"nombre":"Cama Matrimonial",
+		"precio":"210",
+		"marca":"Capri",
+		"img":"https://y4j9z9c2.stackpathcdn.com/media/catalog/product/cache/1/image/500x500/9df78eab33525d08d6e5fb8d27136e95/1/0/101692858_1.jpg"
+	},
+	{
+		"nombre":"Tablet 10 pulgadas",
+		"precio":"350.00",
+		"marca":"Samsung",
+		"img":"https://y4j9z9c2.stackpathcdn.com/media/catalog/product/cache/1/image/500x500/9df78eab33525d08d6e5fb8d27136e95/1/0/101692858_1.jpg"
+	},
+	{
+		"nombre":"Reproductor Blue Ray",
+		"precio":"100.00",
+		"marca":"Sony",
+		"img":"https://y4j9z9c2.stackpathcdn.com/media/catalog/product/cache/1/image/500x500/9df78eab33525d08d6e5fb8d27136e95/1/0/101692858_1.jpg"
+	},
+	{
+		"nombre":"Juego de comedor",
+		"precio":"200",
+		"marca":"Arte-sanal",
+		"img":"https://y4j9z9c2.stackpathcdn.com/media/catalog/product/cache/1/image/500x500/9df78eab33525d08d6e5fb8d27136e95/1/0/101692858_1.jpg"
+	},
+	{
+		"nombre":"Lavadora",
+		"precio":"431.00",
+		"marca":"Mabe",
+		"img":"https://y4j9z9c2.stackpathcdn.com/media/catalog/product/cache/1/image/500x500/9df78eab33525d08d6e5fb8d27136e95/1/0/101692858_1.jpg"
+	},
+	{
+		"nombre":"Cocina 4 quemadores y horno",
+		"precio":"130.00",
+		"marca":"King",
+		"img":"https://y4j9z9c2.stackpathcdn.com/media/catalog/product/cache/1/image/500x500/9df78eab33525d08d6e5fb8d27136e95/1/0/101692858_1.jpg"
+	}
+
+]
