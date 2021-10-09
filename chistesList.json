@@ -5,6 +5,13 @@
 	"chistes":
 	[
 		{
+			"id":100,
+			"nombre":"Doctor",
+			"texto":"Sale el doctor después de un parto y el padre de la criatura le pregunta: ¿Doctor cómo salió todo? El doctor le dice: todo salió bien, pero tuvimos que colocarle oxígeno al bebé. El padre, horrorizado, le dice: pero doctor, nosotros queríamos ponerle Gabriel.",
+			"image":"https://i0.wp.com/comicsandmemes.com/wp-content/uploads/chuck-norris-meme-chuck-norris-was-the-force-in-star-wars.jpg?w=720&ssl=1"
+		},
+		
+		{
 			"id":1,
 			"nombre":"Chuck Norris",
 			"texto":"Chuck Norris mata y luego pregunta",
