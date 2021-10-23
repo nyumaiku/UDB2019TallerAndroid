@@ -46,6 +46,13 @@
 			"nombre":"Chuck Norris",
 			"texto":"Super Man tiene una pijama de Chuck Norris",
 			"image":"https://cdn-pro.elsalvador.com/wp-content/uploads/2020/03/Chuck-Norris_04.jpg"
+		},
+		{
+			"id":6,
+			"nombre":"Isla",
+			"texto":"—A mí me gustaría vivir en una isla desierta. —A mí también. —¡Joder! ¡Ya empezamos a llenarla!",
+			"image":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Isla_de_Lobos_a%C3%A9rea.jpg"
 		}
+		
 	]
 }
